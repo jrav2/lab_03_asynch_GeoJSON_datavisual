@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Baker",
+        "height": 10786,
+        "state": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.82048204779129,
+          48.77248231482005
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glacier Peak",
+        "height": 10525,
+        "state": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.11811766426636,
+          48.11217431039552
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Rainier",
+        "height": 14410,
+        "state": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.75774756421394,
+          46.85106423774283
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Saint Helens",
+        "height": 8363,
+        "state": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.19012742559553,
+          46.19629122117013
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Adams",
+        "height": 12281,
+        "state": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.49176464670052,
+          46.197995811685644
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Hood",
+        "height": 11249,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.69785270831571,
+          45.37252337196722
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Shasta",
+        "height": 14179,
+        "state": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.1957001214534,
+          41.41010534564191
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crater Lake",
+        "height": 6178,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.11447664475426,
+          42.93911849797581
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount McLoughlin",
+        "height": 9493,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3163328863386,
+          42.4440657804916
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Jefferson",
+        "height": 10502,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.80067540426637,
+          44.67405318317779
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Newberry Natl. Volanic Monument",
+        "height": 7984,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.26724546245273,
+          43.78493829579301
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Three Sisters",
+        "height": 10308,
+        "state": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.78106417455383,
+          44.13212490685302
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lassen Peak",
+        "height": 10457,
+        "state": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.50569431044946,
+          40.48795440912505
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Medicine Lake Volcano",
+        "height": 7795,
+        "state": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.60960736548262,
+          41.57354467370658
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    }
+  ]
+}
