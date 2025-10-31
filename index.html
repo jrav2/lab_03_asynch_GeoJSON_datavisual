@@ -134,24 +134,6 @@
                 //load data to the map as new layers and table on the side.
                 map.on('load', function loadingData() {
 
-                    map.addSource('volcanos', {
-                        type: 'geojson',
-                        data: volcanos
-                    });
-
-                    map.addLayer({
-                        'id': 'volcanos-layer',
-                        'type': 'circle',
-                        'source': 'volcanos',
-                        'paint': {
-                            'circle-radius': 8,
-                            'circle-stroke-width': 2,
-                            'circle-color': 'red',
-                            'circle-stroke-color': 'white'
-                        }
-                    });
-
-
                     map.addSource('cascades', {
                         type: 'geojson',
                         data: cascades
@@ -174,6 +156,23 @@
                         'paint': {
                             'line-color': '#228B22', // border color
                             'line-width': 2           // border thickness
+                        }
+                    });
+
+                    map.addSource('volcanos', {
+                        type: 'geojson',
+                        data: volcanos
+                    });
+
+                    map.addLayer({
+                        'id': 'volcanos-layer',
+                        'type': 'circle',
+                        'source': 'volcanos',
+                        'paint': {
+                            'circle-radius': 3,
+                            'circle-stroke-width': 4,
+                            'circle-color': 'white',
+                            'circle-stroke-color': '#A0522D'
                         }
                     });
 
